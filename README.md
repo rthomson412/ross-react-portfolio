@@ -1,5 +1,4 @@
-# Professional ReactPortfolio: 
-## Ross Thomson
+# Professional ReactPortfolio: Ross Thomson
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
