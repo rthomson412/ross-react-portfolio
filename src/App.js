@@ -22,12 +22,13 @@ function App() {
           pages={pages}
           setCurrentPage={setCurrentPage}
           currentPage={currentPage}
-        ></Nav>
+        >
+        </Nav>
       </Header>
       <main>
         <Page currentPage={currentPage}></Page>
       </main>
-      <Footer />
+      <Footer/>
     </div>
   );
 }
