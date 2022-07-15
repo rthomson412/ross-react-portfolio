@@ -9,7 +9,6 @@ function App() {
       {name: "about me"},
       {name: "portfolio"},
       {name: "contact"},
-      {name: "testimonials"},
       {name: "resume"}
   ]);
 
