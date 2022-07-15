@@ -42,4 +42,18 @@ function Portfolio() {
     },
   ]);
 
-  
+  return (
+    <div>
+      <div className="flex-row">
+        {projects.map((project, idx) => (
+          <Project
+            project={project}
+            key={"project" + idx}
+          />
+        ))}
+      </div>
+    </div>
+  );
+};
+
+export default Portfolio;
