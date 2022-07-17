@@ -14,10 +14,10 @@ function Nav(props) {
 
   return (    
       <nav>
-        <ul className="flex-row">
+        <ul className="flex-row col-6 pt-2 text-center p-0 d-flex justify-content-end align-items-center">
           {pages.map((Page) => (
             <li
-              className={`mx-5 ${
+              className={`mx-5 text-white navigation-link ${
                 currentPage.name === Page.name && 'navActive'
                 }`}
               key={Page.name}

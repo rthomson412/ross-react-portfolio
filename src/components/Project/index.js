@@ -15,11 +15,12 @@ function Project({ project }) {
       <div className="project-text">
         <h3>
           <a href={link}>{removeHyphensAndCapitalize(name)}</a>{' '}
-          <a href={repo}>
-            <i className="fab fa-github"></i>
-          </a>
+          
         </h3>
         <p>{description}</p>
+        <a href={repo}>Check the code...
+            <i className="fab fa-github"></i>
+          </a>
       </div>
     </div>
   );
