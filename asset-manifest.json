@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ross-react-portfolio/static/css/main.a7267f54.css",
+    "main.js": "/ross-react-portfolio/static/js/main.bd848763.js",
+    "static/media/cover.jpg": "/ross-react-portfolio/static/media/cover.4ab3e285456154a6fff3.jpg",
+    "static/media/ross.jpg": "/ross-react-portfolio/static/media/ross.0e9d287cfcb33be6cdef.jpg",
+    "static/media/upstarter.jpg": "/ross-react-portfolio/static/media/upstarter.ce20218c7c61809d48c3.jpg",
+    "static/media/workday-scheduler.jpg": "/ross-react-portfolio/static/media/workday-scheduler.9bff464dfc54ba34eb16.jpg",
+    "static/media/much-better-dictionary.jpg": "/ross-react-portfolio/static/media/much-better-dictionary.048b8468d09929dd8a36.jpg",
+    "static/media/code-quiz.jpg": "/ross-react-portfolio/static/media/code-quiz.f44161f64defc1f2f8f2.jpg",
+    "static/media/scotland.jpg": "/ross-react-portfolio/static/media/scotland.9aa96ee0ad7666c5756d.jpg",
+    "static/media/weather-dashboard.jpg": "/ross-react-portfolio/static/media/weather-dashboard.94791b3d775d9547284e.jpg",
+    "index.html": "/ross-react-portfolio/index.html",
+    "main.a7267f54.css.map": "/ross-react-portfolio/static/css/main.a7267f54.css.map",
+    "main.bd848763.js.map": "/ross-react-portfolio/static/js/main.bd848763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7267f54.css",
+    "static/js/main.bd848763.js"
+  ]
+}
