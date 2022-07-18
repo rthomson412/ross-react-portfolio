@@ -15,4 +15,4 @@
 - Code repository at:  https://github.com/rthomson412/ross-react-portfolio
 
 ## Screenshot
-![]blob/main/Screenshot.jpg
+![](Screenshot.jpg)
