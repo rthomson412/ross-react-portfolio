@@ -12,6 +12,7 @@
 ## Usage
 
 - App deployed at: https://rthomson412.github.io/ross-react-portfolio/
+
 - Code repository at:  https://github.com/rthomson412/ross-react-portfolio
 
 ## Screenshot
