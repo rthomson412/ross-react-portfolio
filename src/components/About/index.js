@@ -1,17 +1,21 @@
 import React from 'react';
 import scotlandImage from '../../assets/images/scotland.jpg';
+import rossImage from '../../assets/images/ross.jpg';
 
 function About() {
   return (
     <div className="main-container container">
       <div className="row main_row">
-        <div className="col-6">
+        <div className="col-6" >
           <h2 className="text-white">Hello there, I'm</h2>
-          <h1 className="text-warning m-heading">Ross Thomon</h1>
+          <h1 className="text-warning m-heading">Ross Thomson</h1>
           <h2 className="text-white">Web Developer</h2>
-
         </div>
-      </div>
+        <div class="col-6">
+          <img src={rossImage} alt="psychadelic2" className="img-fluid"></img>
+        </div>
+      
+    </div>
 
       <div id="about" className="container about p-5">
         <div className="row">
@@ -20,7 +24,7 @@ function About() {
             <br />
             <img src={scotlandImage} alt="psychadelic" className="img-fluid"></img>
           </div>
-          <div className="col-6 pl-5 pt-5 pb-5 text-white">
+          <div className="col-6 pl-5 pt-5 pb-5 text-light">
             <h3 className="text-warning">About Me</h3>
             <h1 className="m-heading">Non-essential worker</h1>
             <p>

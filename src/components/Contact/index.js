@@ -41,10 +41,10 @@ function Contact() {
   };
 
   return (
-    <section>
-      <form id="contact-form" onSubmit={handleSubmit}>
-        <div>
-          <label htmlFor="name">Name:</label>
+    <section className="contact-form">
+      <form  className="form" id="contact-form" onSubmit={handleSubmit}>
+      <div>
+          <label htmlFor="name" type="text" className="input-group">Name:</label>
           <input
             type="text"
             name="name"
@@ -53,7 +53,7 @@ function Contact() {
           />
         </div>
         <div>
-          <label htmlFor="email">Email address:</label>
+          <label htmlFor="email" type="text" className="input-group">Email address:</label>
           <input
             type="email"
             name="email"
@@ -62,7 +62,7 @@ function Contact() {
           />
         </div>
         <div>
-          <label htmlFor="message">Message:</label>
+          <label htmlFor="message" type="text" className="input-group">Message:</label>
           <textarea
             name="message"
             rows="5"

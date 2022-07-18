@@ -18,7 +18,7 @@ function Project({ project }) {
           
         </h3>
         <p>{description}</p>
-        <a href={repo}>Check the code...
+        <a href={repo}>Code on Github
             <i className="fab fa-github"></i>
           </a>
       </div>
