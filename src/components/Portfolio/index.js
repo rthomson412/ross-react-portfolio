@@ -23,10 +23,10 @@ function Portfolio() {
       repo: "https://github.com/rthomson412/Code-Quiz"
     },
     {
-      name: 'workday-scheduler',
-      description: 'Organize the events of your day and see what events have passed and are upcoming.',
-      link: "https://rthomson412.github.io/Work-Day-Scheduler/",
-      repo: "https://github.com/rthomson412/Work-Day-Scheduler"
+      name: 'SlytherinSocial',
+      description: 'An alternative to the big social tech monopolies of our time.',
+      link: "https://slytherin-social.herokuapp.com/",
+      repo: "https://github.com/slytherin-CU-VIRT-BO/slytherin-social-app"
     },
     {
       name: 'weather-dashboard',
