@@ -20,7 +20,7 @@ main {
   z-index: 900;
   opacity: 0;
   transition: all 0.5s ease-in-out;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .project-text:hover {
