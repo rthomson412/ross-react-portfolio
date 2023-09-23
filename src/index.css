@@ -75,7 +75,7 @@ color: #ccc;
 
 input {
 padding: 1 1em;
-border-right: #ccc solid 1px;
+border-right: #ccc solid 2px;
 display: flex;
 justify-content: center;
 align-items: center;
