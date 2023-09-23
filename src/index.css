@@ -88,7 +88,7 @@ align-items: center;
 --light: #fafafa;
 --dark: #7e5d09;
 --darker: #773f00;
---alpha: rgba(255, 255, 255, 0.5);
+--alpha: rgba(255, 255, 255, 0.6);
 --error: rgb(255, 51, 0);
 --spacing-one: calc(1rem * 0.5);
 --spacing-two: calc(1rem);
