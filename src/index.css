@@ -16,7 +16,7 @@ main {
   bottom: 1px;
   left: 0px;
   right: 0px;
-  padding: 40px;
+  padding: 45px;
   z-index: 100;
   opacity: 0;
   transition: all 0.5s ease-in-out;
