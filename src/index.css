@@ -7,7 +7,7 @@ main {
 
 .main_row img {
   width: 400px;
-  height: 300px;
+  height: 400px;
 }
 .project-text {
   color: var(--secondary);
