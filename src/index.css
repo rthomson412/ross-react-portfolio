@@ -47,7 +47,7 @@ main {
 .navActive {
   color: var(--secondary);
   cursor: default;
-  text-shadow: 3px 3px 12px rgba(255, 255, 255, 0.5);
+  text-shadow: 3px 3px 10px rgba(255, 255, 255, 0.5);
 }
 .input-group {
 border: #ccc solid 2px;
