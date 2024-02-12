@@ -26,7 +26,7 @@ main {
 .project-text:hover {
   background-color: var(--alpha);
   opacity: 1;
-  border: 10px solid var(--secondary);
+  border: 15px solid var(--secondary);
 }
 
 .project-text h3 {
